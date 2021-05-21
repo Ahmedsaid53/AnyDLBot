@@ -6,6 +6,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 **WARNING**: Repo is quite unusable now, going to rewrite it soon.
 
+* [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SayanthD/AnyDLBot)
 ## Credits, and Thanks to
 
 * Spechide
